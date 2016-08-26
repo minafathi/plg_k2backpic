@@ -8,7 +8,7 @@
 	<authorEmail>info@trangell.com</authorEmail>
 	<authorUrl>https://trangell.com</authorUrl>
 	<version>0.0.1</version>
-	<description>پلاگین تخصیص بک گراند به هر مطلب افزونه k2 جوملا ترانگل</description>
+	<description>k2 - backpic plugin</description>
 	<files>
 		<filename plugin="plg_k2backpic">plg_k2backpic.php</filename>
 		<filename plugin="plg_k2backpic">index.html</filename>
