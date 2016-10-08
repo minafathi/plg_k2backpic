@@ -13,7 +13,7 @@ defined('_JEXEC') or die ;
 
 JLoader::register('K2Plugin', JPATH_ADMINISTRATOR.'/components/com_k2/lib/k2plugin.php');
 
-
+//test
 class plgK2K2Plg_K2BackPic extends K2Plugin {
 
 	function onK2PrepareContent(&$item, &$params, $limitstart) {
